@@ -37,19 +37,21 @@ html, body{
 }
 .title h3{
   padding: 2rem 0rem .25rem 3rem;
+  color: white;
+  font-weight: bold;
 
 }
 .title h1{
   padding: 0rem 0rem 2rem 3rem;
+  color: white;
+  font-weight: bold;
 }
 .titletext {
   width: 20rem;
   background-color: black;
+  height: auto;
   padding-top: 9rem;
   position: relative;
-  margin: 0;
-  font-weight: bold;
-  color: white;
 }
 
 
