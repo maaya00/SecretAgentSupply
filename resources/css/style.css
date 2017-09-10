@@ -51,15 +51,16 @@ html, body{
 
 
 }
-.titletext h2 h1 {
+.title h2 h1 {
   background-color: black;
   font-weight: bold;
   display: block;
   color: white;
-}
-.titletext h1{
-  padding: 0rem 0rem 2rem 3rem;
+  width: 20rem;
 
+}
+.title h1{
+  padding: 0rem 0rem 2rem 3rem;
 }
 
 .main li {
@@ -80,6 +81,7 @@ html, body{
 .products {
 border: 4px solid black;
 width: 30%;
+display: inline;
 
 }
 .products img {
@@ -92,7 +94,7 @@ width: 30%;
 }
 
 .location .hours {
-  display: inline-block;
+  display: inline;
   width: 35%;
 
 }
