@@ -43,7 +43,8 @@ html, body{
   background-color: black;
   width: 20rem;
   padding-top: 9rem;
-
+  display: block;
+  align-items: center;
 
 }
 
@@ -54,6 +55,7 @@ html, body{
   font-size: 2rem;
   padding-top: 0.25rem;
   padding-left: 3rem;
+  padding-bottom: 2rem;
 
 }
 
@@ -64,6 +66,9 @@ html, body{
   font-size: 1rem;
   padding-top: 2rem;
   margin-bottom: 0;
+  padding-left: 3rem;
+  padding-bottom: 2rem;
+  
 }
 
 .main li {
