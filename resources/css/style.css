@@ -11,16 +11,17 @@ html, body{
 .header {
   background-color: black;
 }
-.header img {
+#logo {
   padding: .66rem 1rem .66rem .5rem;
   display: inline;
-  height:1.5rem;
+  height: 1.5rem;
+  margin: auto;
 
 }
 .header h2 {
   color: white;
   display: inline;
-  padding: .66rem 1rem;
+  padding: .66rem 0rem;
   font-size: 1rem;
 }
 .header .container {
