@@ -67,6 +67,7 @@ html, body{
 }
 
 .main li {
+  display: inline-flex;
   font-size: 1rem;
   color: white;
   padding-top: 0.75rem;
