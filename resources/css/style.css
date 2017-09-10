@@ -74,19 +74,17 @@ html, body{
   padding-bottom: 0.75rem;
   margin-left: 0;
   margin-right: 0;
-
 }
-.containers{
-  width: 100%;
-  display: inline-flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-grow: 1;
 
 }
 .main {
+  display: flex;
   background-color: firebrick;
   flex-grow: 1;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+
 }
 
 
