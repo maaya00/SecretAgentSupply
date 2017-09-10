@@ -101,9 +101,8 @@ margin-top: 3rem;
 
 .products img {
   height: 9rem;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  
+  padding: 2rem;
+
 }
 .productdisplay {
   display: flex;
