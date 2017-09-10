@@ -84,9 +84,7 @@ html, body{
 
 }
 .main {
-  display: flex;
   background-color: firebrick;
-  flex-wrap: wrap;
 }
 
 
