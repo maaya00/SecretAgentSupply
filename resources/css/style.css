@@ -16,5 +16,5 @@ html, body{
 }
 .header h2 {
   color: white;
-  display: inline-flex; 
+  display: flex; 
 }
