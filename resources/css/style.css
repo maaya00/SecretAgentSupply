@@ -11,24 +11,37 @@ html, body{
 .header {
   background-color: black;
 }
-#logo {
+.header img {
   padding: .66rem 1rem .66rem .5rem;
-  display: inline;
-  height: 1.5rem;
-  margin: auto;
+  display: inline-block;
+  height:1.5rem;
 
 }
 .header h2 {
   color: white;
   display: inline;
-  padding: .66rem 0rem;
+  padding: .66rem;
   font-size: 1rem;
 }
 .header .container {
   max-width: 960px;
 }
 
-.title .containerbox {
+.title {
+  display: block;
+  font-weight: bold;
+  color: white;
+  background-color: black
+  width: 20rem;
+}
+.title h3{
+  padding: 2rem 0rem .25rem 3rem;
+
+}
+.title h1{
+  padding: 0rem 0rem 2rem 3rem;
+}
+.containerbox {
   width: 20rem;
 }
 
