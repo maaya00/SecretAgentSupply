@@ -51,8 +51,7 @@ html, body{
 .containerbox {
   max-width: 20rem;
   background-color: black;
-  top: 9rem;
-  bottom: 7rem;
+  padding-top: 9rem;
   position: relative;
   margin: 0;
 }
