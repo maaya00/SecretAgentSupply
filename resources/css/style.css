@@ -13,11 +13,11 @@ html, body{
 }
 .header img {
   padding: .66rem 1rem .66rem .5rem;
-  display: flex;
-  flex-direction: row;
+  display: inline;
+
 }
 .header h2 {
   color: white;
-  display: flex;
-  flex-direction: row;
+  display: inline;
+  
 }
