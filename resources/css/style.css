@@ -113,7 +113,9 @@ margin-top: 3rem;
   padding: 3rem;
 
 }
-
+.glasses img {
+  width: 75%;
+}
 .other{
   display: inline-block;
   width: 35%;
