@@ -35,17 +35,14 @@ html, body{
   padding: 0;
 }
 
-.text {
-  width: 20rem;
-  position: relative;
-  height: 5rem;
-  display: relative;
-}
+
 .text h2 h1{
 
   background-color: black;
   font-weight: bold;
   color: white;
+  width: 20rem;
+  height: 5rem;
 }
 
 }
