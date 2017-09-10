@@ -20,5 +20,20 @@ html, body{
 .header h2 {
   color: white;
   display: inline;
-  padding: .66rem;
+  padding: .66rem 1rem;
+  font-size: 1rem;
+}
+.header .container {
+  max-width: 960px;
+}
+
+.title .containerbox {
+  width: 20rem;
+}
+
+.main li {
+  display: inline;
+}
+.main {
+  background-color: firebrick;
 }
