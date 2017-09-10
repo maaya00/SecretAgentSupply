@@ -27,7 +27,7 @@ html, body{
 
 
 .title {
-  display: block;
+  display: flex;
   font-weight: bold;
   color: white;
   width: 20rem;
@@ -48,13 +48,14 @@ html, body{
 .title h1{
   padding: 0rem 0rem 2rem 3rem;
 }
-.containerbox {
+.titletext {
   width: 20rem;
   background-color: black;
   padding-top: 9rem;
   position: relative;
   margin: 0;
 }
+
 
 .main li {
   display: inline-block;
@@ -71,7 +72,7 @@ html, body{
   padding: 2rem;
   margin:3rem;
 }
-.prducts{
+.products{
 border: 4px solid black;
 }
 .productdisplay {
