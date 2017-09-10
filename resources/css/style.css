@@ -41,7 +41,7 @@ html, body{
   background-color: black;
   width: 20rem;
   height: 5rem;
-  margin-top: 9rem;
+  padding-top: 9rem;
 }
 
 .text h1{
@@ -49,6 +49,7 @@ html, body{
   display: inline-block;
   color: white;
   font-size: 2rem;
+
 }
 
 .text h2 {
@@ -56,6 +57,7 @@ html, body{
   display: inline-block;
   color: white;
   font-size: 1rem;
+  padding-top: 2rem;
 }
 
 .main li {
