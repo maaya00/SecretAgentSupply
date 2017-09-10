@@ -32,7 +32,7 @@ body {
 }
 
 .banner {
-  background-image: url("../Media/moto.jpeg");
+  background-image: url("../media/moto.jpeg");
   height: 25rem;
   background-position: center;
   background-size: cover;
