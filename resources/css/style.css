@@ -41,6 +41,8 @@ html, body{
   background-color: black;
   width: 20rem;
   padding-top: 9rem;
+  display: flex;
+  align-items: center;
 
 }
 
@@ -61,10 +63,10 @@ html, body{
 }
 
 .main li {
-  display: inline-block;
+  display: inline-flex;
   font-size: 1rem;
   color: white;
-  text-align: center;
+  justify-content: space-around;
 }
 .main {
   background-color: firebrick;
