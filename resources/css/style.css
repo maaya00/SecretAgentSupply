@@ -70,14 +70,13 @@ html, body{
   display: inline-flex;
   font-size: 1rem;
   color: white;
-  padding-top: .075rem;
-  padding-bottom:0.75rem;
 
 }
 .container1{
   width: 100%;
-  align-items:center;
+  display: flex;
   justify-content: space-around;
+  align-items: center;
 
 }
 .main {
