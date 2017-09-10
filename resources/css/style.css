@@ -73,14 +73,13 @@ html, body{
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   margin-left: 0;
-  padding-left: j;
-  padding-right: k;
+  padding-left: 5rem;
+  padding-right: 5rem;
   margin-right: 0;
 
 }
 .containers{
   width: 100%;
-  display: inline-flex;
   justify-content: space-around;
   align-items: center;
   flex-grow: 1;
@@ -89,6 +88,7 @@ html, body{
 .main {
   background-color: firebrick;
   display: flex;
+
 }
 
 
@@ -100,7 +100,7 @@ html, body{
 .products {
 border: 4px solid black;
 width: 30%;
-display:inline-flex;
+display:inline-block;
 margin-top: 3rem;
 justify-content: space-between;
 }
@@ -113,7 +113,10 @@ justify-content: space-between;
 .productdisplay {
   display: flex;
 }
-
+.containersupporting{
+  justify-content: space-around;
+  align-items: center;
+}
 .info {
   display: inline;
   width: 35%;
