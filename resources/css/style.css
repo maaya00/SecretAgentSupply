@@ -39,12 +39,15 @@ html, body{
 .text{
 
   background-color: black;
-  font-weight: bold;
   width: 20rem;
   height: 5rem;
 }
 
-
+.text h1{
+  font-weight: bold;
+  color: white
+  font-size:2rem;
+}
 
 
 
