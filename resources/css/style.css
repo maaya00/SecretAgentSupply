@@ -3,11 +3,17 @@ html, body{
   font-size: 18px;
 }
 .container {
-  margin: .66rem;
+  padding: .66rem;
   max-width: 100%;
 
 }
 
 .header {
   background-color: black;
+}
+.header img {
+  padding: .66rem 1rem .66rem .5rem;
+}
+.header h2 {
+  color: white;
 }
