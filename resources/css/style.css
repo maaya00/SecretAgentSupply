@@ -76,7 +76,7 @@ html, body{
   margin-right: 0;
 
 }
-.container1{
+.containers{
   width: 100%;
   display: inline-flex;
   justify-content: space-around;
