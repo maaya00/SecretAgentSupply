@@ -7,6 +7,9 @@ html, body{
   max-width: 100%;
 
 }
+.container .header .main .title .productdisplay .info .footer {
+  position: relative;
+}
 
 .header {
   background-color: black;
@@ -19,19 +22,16 @@ html, body{
 }
 .header h2 {
   color: white;
-  display: inline;
+  display: inline-block;
   padding: .66rem;
   font-size: 1rem;
 }
-.header .container {
-  max-width: 960px;
-}
+
 
 .title {
   display: block;
   font-weight: bold;
   color: white;
-  background-color: black
   width: 20rem;
 }
 .title h3{
@@ -43,11 +43,28 @@ html, body{
 }
 .containerbox {
   width: 20rem;
+  background-color: black;
+  top: 9rem;
 }
 
 .main li {
-  display: inline;
+  display: inline-block;
+  font-size: 1rem;
 }
 .main {
   background-color: firebrick;
+  max-width: 100%;
+}
+.products h4 {
+  display: inline-block;
+  max-width: 30%;
+  border: 4px solid black;
+  height: 9rem;
+  padding: 2rem;
+  margin:3rem;
+}
+
+.location .hours {
+  display: inline-block;
+  width: 35%;
 }
