@@ -7,9 +7,7 @@ html, body{
   max-width: 100%;
 
 }
-.container .header .main .title .productdisplay .info .footer {
-  position: relative;
-}
+
 
 .header {
   background-color: black;
@@ -45,6 +43,8 @@ html, body{
   width: 20rem;
   background-color: black;
   top: 9rem;
+  bottom: 7rem;
+  position: relative;
 }
 
 .main li {
