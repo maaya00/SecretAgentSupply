@@ -104,13 +104,14 @@ margin-top: 3rem;
 .products img {
   height: 9rem;
   padding: 2rem;
+  width: 30%;
 
 }
 .productdisplay {
   display: flex;
   justify-content: space-around;
   padding: 3rem;
-  width: 30%;
+
 }
 
 .other{
