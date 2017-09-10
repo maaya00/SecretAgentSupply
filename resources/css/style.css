@@ -45,13 +45,13 @@ html, body{
 }
 
 }
-.title h2{
+.titletext h2{
   padding: 2rem 0rem .25rem 3rem;
   color: white;
   font-weight: bold;
 
 }
-.title h1{
+.titletext h1{
   padding: 0rem 0rem 2rem 3rem;
   color: white;
   font-weight: bold;
@@ -68,8 +68,7 @@ html, body{
   max-width: 100%;
 }
 .products h4 {
-  display: block;
-  max-width: 30%;
+  width: 30%;
   height: 9rem;
   padding: 2rem;
   margin:3rem;
