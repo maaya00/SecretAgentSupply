@@ -41,8 +41,7 @@ html, body{
   background-color: black;
   width: 20rem;
   padding-top: 9rem;
-  display: relative;
-  z-index: 100;
+
 }
 
 .text h1{
@@ -50,6 +49,7 @@ html, body{
   display: inline-block;
   color: white;
   font-size: 2rem;
+  margin: 0;
 
 }
 
@@ -64,6 +64,7 @@ html, body{
   display: inline-block;
   font-size: 1rem;
   color: white;
+  text-align: center;
 }
 .main {
   background-color: firebrick;
@@ -72,7 +73,7 @@ html, body{
 .products h4 {
   color: white;
   background-color: black;
-  
+
 
 
 }
@@ -92,13 +93,15 @@ display:inline-block;
   display: inline;
 }
 
-.location .hours {
+.info {
   display: inline;
   width: 35%;
-
 }
 
 .info h4 {
   background-color: black;
   color: white;
+}
+.footer {
+
 }
