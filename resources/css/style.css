@@ -68,12 +68,16 @@ html, body{
   font-size: 1rem;
   color: white;
 }
+.container1{
+  max-width: 100%;
+}
 .main {
   background-color: firebrick;
-  max-width: 100%;
   display: inline-flex;
   justify-content: space-around;
 }
+
+
 .products h4 {
   color: white;
   background-color: black;
