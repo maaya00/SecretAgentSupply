@@ -34,33 +34,31 @@ html, body{
   background-size: cover;
   padding: 0;
 }
-.titletext {
+
+.text {
   width: 20rem;
-  height: auto;
-  padding-top: 9rem;
+  margin-top:9rem;
   position: relative;
   height: 5rem;
   display: relative;
 }
+.text h2 h1{
 
-}
-.titletext h2{
-  padding: 2rem 0rem .25rem 3rem;
-
-
-
-
-}
-.titletext h2 h1 {
   background-color: black;
   font-weight: bold;
-  display: block;
   color: white;
 }
-.titletext h1{
-  padding: 0rem 0rem 2rem 3rem;
 
 }
+.text h2{
+  padding: 2rem 0rem .25rem 3rem;
+}
+.text h1{
+  padding: 0rem 0rem 2rem 3rem;
+}
+
+
+
 
 .main li {
   display: inline-block;
