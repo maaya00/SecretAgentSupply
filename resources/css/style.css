@@ -20,5 +20,5 @@ html, body{
 .header h2 {
   color: white;
   display: inline;
-  margin: auto;
+  padding: .66rem;
 }
