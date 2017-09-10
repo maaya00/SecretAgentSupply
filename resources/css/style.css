@@ -36,7 +36,6 @@ html, body{
 }
 .titletext {
   width: 20rem;
-  background-color: black;
   height: auto;
   padding-top: 9rem;
   position: relative;
@@ -47,19 +46,26 @@ html, body{
 }
 .titletext h2{
   padding: 2rem 0rem .25rem 3rem;
-  color: white;
-  font-weight: bold;
 
+
+
+
+}
+.titletext h2 h1 {
+  background-color: black;
+  font-weight: bold;
+  display: block;
+  color: white;
 }
 .titletext h1{
   padding: 0rem 0rem 2rem 3rem;
-  color: white;
-  font-weight: bold;
+
 }
 
 .main li {
   display: inline-block;
   font-size: 1rem;
+  color: white;
 }
 .main {
   background-color: firebrick;
@@ -68,7 +74,7 @@ html, body{
 .products h4 {
   color: white;
   background-color: black;
-  width: 30%;
+
 
 }
 .products {
@@ -78,7 +84,6 @@ width: 30%;
 }
 .products img {
   height: 9rem;
-  width: 30%;
   padding: 2rem;
   margin: 3rem;
 }
@@ -89,4 +94,10 @@ width: 30%;
 .location .hours {
   display: inline-block;
   width: 35%;
+
+}
+
+.info h4 {
+  background-color: black;
+  color: white;
 }
