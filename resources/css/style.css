@@ -50,7 +50,12 @@ html, body{
   font-size: 2rem;
 }
 
-
+.text h2 {
+  font-weight: bold;
+  display: inline-block;
+  color: white;
+  font-size: 1rem;
+}
 
 .main li {
   display: inline-block;
