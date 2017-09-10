@@ -40,7 +40,6 @@ html, body{
 
   background-color: black;
   width: 20rem;
-  height: 5rem;
   padding-top: 9rem;
 }
 
@@ -57,7 +56,6 @@ html, body{
   display: inline-block;
   color: white;
   font-size: 1rem;
-  padding-top: 2rem;
 }
 
 .main li {
