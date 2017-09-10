@@ -13,8 +13,11 @@ html, body{
 }
 .header img {
   padding: .66rem 1rem .66rem .5rem;
+  display: flex;
+  flex-direction: row;
 }
 .header h2 {
   color: white;
-  display: flex; 
+  display: flex;
+  flex-direction: row;
 }
