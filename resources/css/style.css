@@ -69,7 +69,7 @@ html, body{
   color: white;
 }
 .container1{
-  max-width: 100%;
+  width: 100%;
 }
 .main {
   background-color: firebrick;
