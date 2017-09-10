@@ -34,8 +34,18 @@ html, body{
   background-size: cover;
   padding: 0;
 }
+.titletext {
+  width: 20rem;
+  background-color: black;
+  height: auto;
+  padding-top: 9rem;
+  position: relative;
+  height: 5rem;
+  display: relative;
 }
-.title h3{
+
+}
+.title h2{
   padding: 2rem 0rem .25rem 3rem;
   color: white;
   font-weight: bold;
@@ -46,13 +56,7 @@ html, body{
   color: white;
   font-weight: bold;
 }
-.titletext {
-  width: 20rem;
-  background-color: black;
-  height: auto;
-  padding-top: 9rem;
-  position: relative;
-}
+
 
 
 .main li {
