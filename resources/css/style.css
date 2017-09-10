@@ -45,8 +45,9 @@ html, body{
 
 .text h1{
   font-weight: bold;
-  color: white
-  font-size:2rem;
+  display: inline-block;
+  color: white;
+  font-size: 2rem;
 }
 
 
