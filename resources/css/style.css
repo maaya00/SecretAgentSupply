@@ -74,7 +74,7 @@ html, body{
 .main {
   background-color: firebrick;
   display: inline-flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 
