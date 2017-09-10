@@ -95,17 +95,19 @@ html, body{
 }
 .products {
 border: 4px solid black;
-height: 9rem;
+width: 30%;
 display:inline-block;
 margin-top: 3rem;
+justify-content: center;
+
 }
 
 .products img {
+  height: 9rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  width: 50%;
 
-
-}
-.names{
-  width: 30%
 }
 .productdisplay {
   display: flex;
