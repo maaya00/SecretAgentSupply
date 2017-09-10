@@ -71,6 +71,7 @@ html, body{
 }
 .container1{
   width: 100%;
+  justify-content: space-around;
 }
 .main {
   display: flex;
