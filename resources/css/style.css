@@ -3,9 +3,9 @@ html, body{
   font-size: 18px;
 }
 .container {
-  padding: .66rem;
   max-width: 100%;
-
+  display: inline-flex;
+  align-items: center;
 }
 
 
@@ -42,7 +42,6 @@ html, body{
 
   background-color: black;
   width: 20rem;
-  padding-top: 9rem;
   display: block;
   align-items: center;
 
