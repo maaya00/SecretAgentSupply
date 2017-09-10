@@ -32,7 +32,7 @@ body{
 }
 
 .banner {
-  background-image: url("./resources/moto.jpeg");
+  background-image: url("/resources/media/moto.jpeg");
   height: 25rem;
   background-position: center;
   background-size: cover;
@@ -85,7 +85,7 @@ nav ul {
   margin: 3rem 0 0 0;
 }
 .item {
-  width: 30%
+  width: 30%;
 }
 .image{
   height: 9rem;
@@ -149,7 +149,7 @@ nav ul {
     display: none;
   }
   .info{
-    width: 35%
+    width: 35%;
   }
 }
 @media only scrceen and (max-width: 470px) {
