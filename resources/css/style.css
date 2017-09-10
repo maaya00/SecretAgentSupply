@@ -67,15 +67,17 @@ html, body{
 }
 
 .main li {
-  display: inline-flex;
   font-size: 1rem;
   color: white;
   padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  margin-left: 0;
+  margin-right: 0;
 
 }
 .container1{
   width: 100%;
-  display: flex;
+  display: inline-flex;
   justify-content: space-around;
   align-items: center;
 
