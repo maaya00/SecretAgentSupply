@@ -88,6 +88,8 @@ html, body{
 .products h4 {
   color: white;
   background-color: black;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 
 }
 .products {
@@ -117,7 +119,7 @@ margin-top: 3rem;
 
 .info{
   display: flex;
-  
+
 }
 
 .info h4 {
