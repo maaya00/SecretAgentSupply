@@ -1,0 +1,13 @@
+html, body{
+  font-family: Helvetica;
+  font-size: 18px;
+}
+.container {
+  margin: .66rem;
+  max-width: 100%;
+
+}
+
+.header {
+  background-color: black;
+}
