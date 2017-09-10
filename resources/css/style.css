@@ -72,11 +72,13 @@ html, body{
   color: white;
   padding-top: .075rem;
   padding-bottom:0.75rem;
-  text-align: center;
+
 }
 .container1{
   width: 100%;
+  align-items:center;
   justify-content: space-around;
+
 }
 .main {
   display: flex;
