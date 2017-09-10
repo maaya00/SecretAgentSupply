@@ -86,6 +86,7 @@ html, body{
 }
 .main {
   background-color: firebrick;
+  flex-grow: 1;
 }
 
 
