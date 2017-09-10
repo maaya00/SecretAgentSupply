@@ -41,6 +41,8 @@ html, body{
   background-color: black;
   width: 20rem;
   padding-top: 9rem;
+  display: relative;
+  z-index: 100;
 }
 
 .text h1{
