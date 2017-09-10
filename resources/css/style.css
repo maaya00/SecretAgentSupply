@@ -106,20 +106,31 @@ margin-top: 3rem;
   display: flex;
   justify-content: space-around;
   align-items: center;
+  padding: 3rem;
 }
 
-.info {
-  display: inline;
+.other{
+  display: inline-block;
   width: 35%;
+  padding: 3rem;
+}
+
+.info{
+  display: flex;
+  
 }
 
 .info h4 {
   background-color: black;
   color: white;
+  padding: 1rem 2rem;
 }
 .footer {
 
 }
 #spacearound {
   justify-content: space-around;
+}
+#spacebetween {
+  justify-content: space-between;
 }
