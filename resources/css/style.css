@@ -36,11 +36,10 @@ html, body{
 }
 
 
-.text h2 h1{
+.text{
 
   background-color: black;
   font-weight: bold;
-  color: white;
   width: 20rem;
   height: 5rem;
 }
