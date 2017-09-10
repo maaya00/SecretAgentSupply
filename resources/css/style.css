@@ -46,11 +46,12 @@ html, body{
   padding: 0rem 0rem 2rem 3rem;
 }
 .containerbox {
-  width: 20rem;
+  max-width: 20rem;
   background-color: black;
   top: 9rem;
   bottom: 7rem;
   position: relative;
+  margin: 0;
 }
 
 .main li {
