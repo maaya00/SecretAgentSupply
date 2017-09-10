@@ -19,6 +19,5 @@ html, body{
 .header h2 {
   color: white;
   display: inline;
-  justify-content: center;
-  align-items: center;
+  margin: auto;
 }
